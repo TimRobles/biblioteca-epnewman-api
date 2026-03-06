@@ -92,9 +92,9 @@ nano .env
 
 Contenido del archivo `.env`:
 ```env
-SECRET_KEY=genera-una-clave-secreta-muy-larga-y-segura-aqui
+SECRET_KEY=Z9g#k8r!v2p@q7s%t4h6m^x1b0c)w+e&y$u*o-l=5A3D9f7?Gz
 DEBUG=False
-ALLOWED_HOSTS=epnewman.regalistos.com.pe,www.epnewman.regalistos.com.pe
+ALLOWED_HOSTS=epnewman.regalistos.com.pe
 
 # PostgreSQL
 DATABASE_URL=postgresql://biblioteca_user:tu_password_seguro_aqui@localhost:5432/biblioteca_epnewman
